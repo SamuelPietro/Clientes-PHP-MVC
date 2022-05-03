@@ -1,6 +1,7 @@
-# MVC DAO
+# Clientes MVC
 
-Um simples script para gestão de clientes usando PHP e bootstrap.
+Um simples script em PHP para gestão de clientes.
+Usamos MVC para padronizar o codigo e o padrão DAO para acesso ao banco de dados 
 
 ## Instalação
 ```bash
